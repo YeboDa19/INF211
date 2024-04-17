@@ -1,0 +1,7 @@
+function multiply (a, b){
+    return a * b;
+}
+
+let a = 4;
+let b = 5;
+console.log(multiply(a, b));
